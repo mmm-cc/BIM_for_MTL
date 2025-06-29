@@ -49,7 +49,7 @@ This repository contains codes and models for the following papers:
 Acknowledgement
 ---------------
 
-We would like to thank the authors that release the public repositories:
+We would like to thank the authors that release the public repositories: https://github.com/EnVision-Research/MTMamba
 
 
 ## Citation
