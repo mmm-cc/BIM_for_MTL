@@ -49,7 +49,7 @@ This repository contains codes and models for the following papers:
 Acknowledgement
 ---------------
 
-We would like to thank the authors that release the public repositories: https://github.com/EnVision-Research/MTMamba
+We would like to thank the authors that release the public repositories:  [Multi-Task-Transformer](https://github.com/prismformore/Multi-Task-Transformer), [mamba](https://github.com/state-spaces/mamba), [VMamba](https://github.com/MzeroMiko/VMamba), [MTMamba](https://github.com/EnVision-Research/MTMamba/tree/main).
 
 
 ## Citation
