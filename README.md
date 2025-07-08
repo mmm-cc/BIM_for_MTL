@@ -57,5 +57,10 @@ We would like to thank the authors that release the public repositories:  [Multi
 If you found this code/work to be useful in your own research, please cite the following:
 
 ```latex
-
+@inproceedings{cao2025bim,
+  title={Enhancing Mamba Decoder with Bidirectional Interaction in Multi-Task Dense Prediction},
+  author={Cao, Mang and Zhou, Sanping and Li, Yizhe and Deng, Ye and Huang, Wenli and Wang, Le},
+  booktitle={International Conference on Computer Vision},
+  year={2025}
+}
 ```
