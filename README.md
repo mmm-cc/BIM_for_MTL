@@ -35,7 +35,7 @@ This repository contains codes and models for the following papers:
 3. Train the model. Taking training NYUDv2 as an example, you can run the following command
    
    ```shell
-   python -m torch.distributed.launch --nproc_per_node 8 main.py --run_mode train --config_exp ./configs/mtmamba_nyud.yml 
+   python -m torch.distributed.launch --nproc_per_node 8 main.py --run_mode train --config_exp ./configs/BIM_nyud.yml 
    ```
 
         You can download the pretrained models from
@@ -43,7 +43,7 @@ This repository contains codes and models for the following papers:
 4. Evaluation. You can run the following command,
    
    ```shell
-   python -m torch.distributed.launch --nproc_per_node 1 main.py --run_mode infer --config_exp ./configs/mtmamba_nyud.yml --trained_model ./ckpts/mtmamba_nyud.pth.tar
+   python -m torch.distributed.launch --nproc_per_node 1 main.py --run_mode infer --config_exp ./configs/mtmamba_nyud.yml --trained_model ./ckpts/BIM_nyud.pth.tar
    ```
 
 Acknowledgement
